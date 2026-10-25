@@ -25,3 +25,8 @@ Source files:
 The banner was generated for this profile. The README prose and arrangement are original; no text or personal assets from other GitHub profiles are included.
 
 - `fastapi.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg
+
+- `html.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
+- `css.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
+- `javascript.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+- `c.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
