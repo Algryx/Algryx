@@ -18,12 +18,7 @@ I enjoy exploring Linux, development environments, and automation. I'm intereste
 
 Cybersecurity is another area I'm curious about, especially how it connects to the software and systems I use. For now, I'm building a broad technical foundation while keeping AI engineering as my direction.
 
-```text
-algryx@terminal:~$ cat profile.conf
-focus      = AI & data science
-direction  = AI engineering
-interests  = software, backend, APIs, automation, open source
-```
+<p align="center"><em>Turning ideas into code, and data into insight.</em></p>
 
 ## `02` · Languages
 
@@ -54,9 +49,19 @@ interests  = software, backend, APIs, automation, open source
   <img src="assets/archlinux.svg" alt="Arch Linux" title="Arch Linux" width="48" height="48" />&nbsp;&nbsp;
 </p>
 
-## `04` · Connect
+## `04` · Libraries I’m exploring
 
-[**X · @itsalgryx**](https://x.com/itsalgryx) &nbsp; / &nbsp; [**Instagram · @itsalgryx**](https://www.instagram.com/itsalgryx/)
+<p>
+  <img src="assets/numpy.svg" alt="NumPy" title="NumPy" width="48" height="48" />&nbsp;&nbsp;
+  <img src="assets/pandas.svg" alt="pandas" title="pandas" width="48" height="48" />&nbsp;&nbsp;
+  <img src="assets/matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="48" height="48" />&nbsp;&nbsp;
+  <img src="assets/seaborn.svg" alt="Seaborn" title="Seaborn" width="48" height="48" />&nbsp;&nbsp;
+  <img src="assets/scikitlearn.svg" alt="scikit-learn" title="scikit-learn" width="48" height="48" />&nbsp;&nbsp;
+</p>
+
+## `05` · Connect
+
+[**X · @itsalgryx**](https://x.com/itsalgryx) &nbsp; / &nbsp; [**Instagram · @itsalgryx**](https://www.instagram.com/itsalgryx/) &nbsp; / &nbsp; [**Email · algryx@hotmail.com**](mailto:algryx@hotmail.com)
 
 ---
 

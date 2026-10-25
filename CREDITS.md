@@ -30,3 +30,14 @@ The banner was generated for this profile. The README prose and arrangement are 
 - `css.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
 - `javascript.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 - `c.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
+
+- `numpy.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg
+- `pandas.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg
+- `matplotlib.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg
+- `scikitlearn.svg`: https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg
+
+## Seaborn
+
+`assets/seaborn.svg` is the Seaborn logo mark downloaded from the official documentation: https://seaborn.pydata.org/_static/logo-mark-lightbg.svg
+
+Seaborn source: https://github.com/mwaskom/seaborn . Its BSD 3-Clause license and copyright notice are included in `licenses/SEABORN-LICENSE.txt`, sourced from https://raw.githubusercontent.com/mwaskom/seaborn/master/LICENSE.md . The logo identifies Seaborn only; no endorsement or affiliation is implied.
